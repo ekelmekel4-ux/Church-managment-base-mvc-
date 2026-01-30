@@ -13,7 +13,6 @@ This project focuses on backend logic, database management, and CRUD operations.
 
 ## Tech Stack
 - PHP
-- CodeIgniter 3
 - MySQL
 - HTML/CSS
 
